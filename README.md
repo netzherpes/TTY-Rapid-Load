@@ -1,6 +1,7 @@
 # TTY-Rapid-Load
 
-This short program was found in the KIM User Notes 7/8
+This short program was found in the KIM User Notes 7/8. It is the simpliest HEX loader I could find. Just type in the location and the pure HEX (not intelHEX)
+
 Load the Papertape and start at $0000. 
 
 | TTY RAPID LOAD |                                     

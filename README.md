@@ -1,5 +1,7 @@
 # TTY-Rapid-Load
 
+This short program was found in the KIM User Notes 7/8
+
 
 | TTY RAPID LOAD |                                     
 |---|

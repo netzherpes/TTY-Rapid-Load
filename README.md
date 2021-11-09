@@ -1,7 +1,7 @@
 # TTY-Rapid-Load
 
 This short program was found in the KIM User Notes 7/8
-
+Load the Papertape and start at $0000. 
 
 | TTY RAPID LOAD |                                     
 |---|
